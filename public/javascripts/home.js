@@ -27,7 +27,7 @@ $(document).ready(function(){
 
         $.ajax({
             type: 'POST',
-            url: 'https://handwriter.herokuapp.com/',
+            url: '/convert',
             data: files,
             contentType: false,
             processData: false,
