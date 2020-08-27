@@ -1,0 +1,28 @@
+Que.1 What is Wireless Network? Write the applications of wireless networks.
+
+ Wireless network or computer network uses wireless data connections between
+ the nodes of the network. Wireless networks fetch important changes to data
+ networking and make an integrated network authenticity.
+
+ A wireless network provides a network without the use of wires because by
+ using it you can connect your computer to the network using radio waves 
+ and can move your computer anywhere.
+
+ A wireless network is extremely portable because of its digital modulation,
+ adaptive modulation, information compression, and access multiplexing.
+
+ Applications:
+ 1. Any data or information can be transmitted faster and with a high speed.
+ 2. Maintenance and installation is less cost for these networks.
+ 3. The internet can be accessed from anywhere wirelessly.
+ 4. It is very helpful for workers, doctors working in remote areas as they
+    can be in touch with medical centers.
+ 5. With this wireless networks, you can make telephone calls using voice 
+    over Internet Protocol.
+ 6. The wireless network provides greater speed for small to medium-sized
+    business and other organization.
+ 7. The security of wireless is very good as it involves the latest encryption
+    technology. So the data and sensitive information cannot be hacked.
+ 8. Mobility is the great advantage of the wireless network as it enables you 
+    to access the server from anywhere in the room. Sometimes you can connect
+    it remotely if you are away from home or office.
